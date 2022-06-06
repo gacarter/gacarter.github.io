@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA(Hons) in English Language & Linguistics with a Year Abroad, The University of Kent, 2017
+* MSc in Cognitive Neuroscience with a specialisation in Language & Communication, Radboud University, 2019
+* PhD in Natural Language Processing, The University of Edinburgh, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - Present: Open Research Facilitator, The University of Edinburgh
+  * Part of a team promotion open research practices in the School of PPLS
+  * Responsibilities: organising, promotion and conducting events for researchers on how to incorporate open practices
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2017 - December 2017: Student Assistant, Max Planck Institute of Psycholinguistics
+  * Research project: Multi-modal Signalling in Communicative Interaction
+  * Responsibilities: coding gesture corpus in ELAN, interpreting discourse transcriptions in Praat, conducting statistical analyses
+  * Supervisor: Dr. Judith Holler
+  
+* November 2016 - December 2017: Research Assistant, The University of Kent
+  * Research project: Speaking or Singing? Unveiling Individual Variation in the Perception of the Speech-to-Song Illusion
+  * Responsibilities: creating experiment materials, participant recruitment and testing
+  * Supervisor: Dr. Tamara Rathcke
+  
+* August 2015 - August 2016: Student Assistant, Max Planck Institute of Psycholinguistics
+  * Research project: Multi-modal Signalling in Communicative Interaction
+  * Responsibilities: coding of behavioural data in ELAN
+  * Supervisor: Dr. Judith Holler & Dr. Kobin Kendrick
+
+* May 2013 - Present: Academic Proofreader, LinguaClue
+  * PTC-trained native English proofreader, specialising  in academic texts
+  * Intermediate Member at Chartered Institute of Editing & Proofreading
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Technical Skills
+* R (advanced)
+* Python (intermediate)
+* Matlab (intermediate)
+* Java (beginner)
+
+### Research Skills
+* EEG (advanced)
+* Eye-tracking (intermediate)
+* fMRI (beginner)
+
+### Languages
+* English (native)
+* Dutch (intermediate)
 
 Publications
 ======
@@ -54,6 +75,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* I'm a Scientist, General Science Red Zone, April 2021
