@@ -2,7 +2,7 @@
 title: "Predicting Definite and Indefinite Referents During Discourse Comprehension: Evidence from Event-Related Potentials"
 collection: publications
 permalink: /publications/2022-02-pred-def.md
-venue: 'Cognitive Science'
+venue: 'Cognitive Science 46'
 paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13092'
 
 ---
