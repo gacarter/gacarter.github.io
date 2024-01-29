@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgia-Ann Carter"
+title                    : "Georgia Carter"
 title_separator          : "-"
-name                     : &name "Georgia-Ann Carter"
+name                     : &name "Georgia Carter"
 description              : &description "PhD student in CDT in NLP at The University of Edinburgh"
 url                      : https://gacarter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
