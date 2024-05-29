@@ -6,7 +6,7 @@ date: 2022-02-01
 venue: 'Cognitive Science, 46'
 paperurl: https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13092
 ---
-Authors: Georgia-Ann Carter and Mante S. Nieuwland 
+Authors: Georgia Carter and Mante S. Nieuwland 
 
 [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13092) [code](https://osf.io/ud2b7/)
 
